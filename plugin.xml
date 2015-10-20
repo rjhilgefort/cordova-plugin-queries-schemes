@@ -14,9 +14,23 @@
     <platform name="ios">
       <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
         <array>
-          <string>youtube</string>
+          <string>fb</string>
           <string>twitter</string>
+          <string>gplus</string>
+          <string>pintrest</string>
+          <string>instagram</string>
+          <string>youtube</string>
+          <string>vnd.youtube</string>
+          <string>yelp</string>
+          <string>linkedin</string>
+          <string>tumblr</string>
           <string>whatsapp</string>
+          <string>snapchat</string>
+          <string>comgooglemaps</string>
+          <string>amazon</string>
+          <string>skype</string>
+          <string>googledrive</string>
+          <string>itms-apps</string>
         </array>
       </config-file>
     </platform>
