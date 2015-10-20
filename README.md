@@ -32,6 +32,10 @@ You can add any schemes necessary by just adding another entry in the list (in `
 </config-file>
 ```
 
+## Contributing
+
+If you feel that I've left out an important app, please modify the `plugin.xml` and send me a pull request along with why you think it should be added.
+
 ## Platforms
 
 Applies to iOS (9+) only.
