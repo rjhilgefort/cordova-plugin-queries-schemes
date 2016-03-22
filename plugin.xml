@@ -31,6 +31,8 @@
           <string>skype</string>
           <string>googledrive</string>
           <string>itms-apps</string>
+          <string>tel</string>
+          <string>mailto</string>
         </array>
       </config-file>
     </platform>
