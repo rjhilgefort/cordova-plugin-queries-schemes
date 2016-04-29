@@ -33,6 +33,8 @@
           <string>itms-apps</string>
           <string>tel</string>
           <string>mailto</string>
+          <string>uber</string>
+          <string>lyft</string>
         </array>
       </config-file>
     </platform>
