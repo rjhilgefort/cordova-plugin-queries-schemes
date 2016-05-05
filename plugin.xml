@@ -35,6 +35,7 @@
           <string>mailto</string>
           <string>uber</string>
           <string>lyft</string>
+          <string>sumupmerchant</string>
         </array>
       </config-file>
     </platform>
