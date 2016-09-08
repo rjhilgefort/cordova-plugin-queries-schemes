@@ -36,6 +36,8 @@
           <string>uber</string>
           <string>lyft</string>
           <string>sumupmerchant</string>
+          <string>yammer</string>
+          <string>salesforce</string>
         </array>
       </config-file>
     </platform>
